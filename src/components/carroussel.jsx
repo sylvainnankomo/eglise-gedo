@@ -14,9 +14,9 @@ const MyCarousel = () => {
 
     return (
         <Slider {...settings}>
-            <div className="h-full max-h-80 bg-cover">
+            <div className="h-full  max-h-40 bg-cover">
 
-                <img src="src/assets/images (1).jpeg" alt="Image 1" className="bg-cover w-full rounded-md"/>
+                <img src="src/assets/téléchargement (1).jpeg" alt="Image 1" className="bg-cover w-full rounded-md"/>
             </div>
             <div className="h-full max-h-80 ">
                 <img src="src/assets/téléchargement (1).png" alt="Image 2" className="bg-cover w-full rounded-md"/>

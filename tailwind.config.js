@@ -5,7 +5,16 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        
+        
+       
+        'gedo-texture': "url('src/assets/téléchargement (1).jpeg')",
+        
+
+      },
+    },
   },
   plugins: [],
 }
