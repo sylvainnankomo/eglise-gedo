@@ -1,3 +1,4 @@
+//import
 import React from 'react';
 
 function Minister  ({image,texte})  {
